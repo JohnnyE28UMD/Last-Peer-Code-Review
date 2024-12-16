@@ -147,3 +147,4 @@ whole_time = end_time - start_time #The difference between the end and start tim
 print ("You played the dice game for " + str(whole_time) + " seconds.")
 
     
+#Peer Code Review Suggestion: As I reviewed your code, I felt overwhelmed with the amount of comments that was made during the creation of your code so the only reccomendation I have is to condense your comments so they won't confuse the user as much.
